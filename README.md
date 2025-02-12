@@ -3,7 +3,7 @@
 
 # Note:
 -The bootstrap templete was for a resturant .so you will still see elements from the original site as the project is not complete
-- The Project is not complete . you can see the progress of this project from this tutorial : https://drive.google.com/file/d/1wrskqgcFkreEVbknDaGjO4VvddYaWpBR/view?usp=sharing
+- The Project is not complete . you can see the progress of this project from this tutorial .** note that this tutorial include the site as it is with the all flaws ** : https://drive.google.com/file/d/1wrskqgcFkreEVbknDaGjO4VvddYaWpBR/view?usp=sharing
 - The project was done in few days due to the full stack course time limitations.
   
 # Repo Files Description
